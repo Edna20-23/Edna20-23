@@ -3,7 +3,7 @@
    AI & Machine Learning for real-world applications <br>
    System design & project management for scalable solutions.<br><br> 
    🛠 Tech Stack<br>
- **Languages:** Programming:  Python, HTML5, CSS3, JavaScript,TypeScript, Nextjs., React  <br>
+ **Languages:** Python, HTML5, CSS3, JavaScript,TypeScript, Nextjs., React  <br>
  **Frameworks:** Django, Django REST Framework, Bootstrap  <br>
  **Version Control:** Git, GitHub<br>
  **UI/UX:** Dashboard and interface design<br>
